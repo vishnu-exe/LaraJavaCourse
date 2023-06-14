@@ -1,0 +1,7 @@
+                                     default          private      protected      public
+                                     --------         --------     ----------     -------
+Same class                            Yes               Yes           Yes           Yes
+Same package subclass                 Yes                No           Yes           Yes
+Same package Non-subclass             Yes                No           Yes           Yes
+Different package Subclass            No                 No           Yes           Yes
+Different package non-subclass        No                 No            No           Yes      

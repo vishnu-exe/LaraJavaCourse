@@ -1,0 +1,5 @@
+static is a keyword - something that doesnt change very frequently.
+
+int = 0
+double = 0
+boolean = false
