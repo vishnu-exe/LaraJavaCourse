@@ -4,4 +4,13 @@ Same class                            Yes               Yes           Yes       
 Same package subclass                 Yes                No           Yes           Yes
 Same package Non-subclass             Yes                No           Yes           Yes
 Different package Subclass            No                 No           Yes           Yes
-Different package non-subclass        No                 No            No           Yes      
+Different package non-subclass        No                 No            No           Yes 
+
+ 
+* private keyword in java == > used to restrict the visibiity of a class, method,field.
+
+* private members scope/visiblity is limited to only that class. Not outside.  
+  
+Default also called package/friendly
+public ==> wider
+private ==> Narrower
